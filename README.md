@@ -59,7 +59,7 @@ A simple Notepad application built with Java and Swing, offering essential text 
     ```
 
 ## Project Structure
-
+```
 shubhambhagat3226-notepad-application/
 ├── Notepad App.iml
 ├── lib/
@@ -72,7 +72,7 @@ shubhambhagat3226-notepad-application/
 │       ├── random.txt
 │       └── text.txt
 └── README.md
-
+```
 
 ## How to Use
 
